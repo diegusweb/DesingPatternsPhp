@@ -20,7 +20,7 @@ class FactoryProducer
                 $factoryObject = new FiguraFactory();
                 break;
             case "Color":
-                $factoryObject = new FiguraFactory();
+                $factoryObject = new ColorFactory();
                 break;
         }
 

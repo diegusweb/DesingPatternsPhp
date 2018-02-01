@@ -20,4 +20,12 @@ class AbstractFactoryTest extends TestCase
 
         $circulo->dibujar();
     }
+
+    public function test3(){
+        $colorFactory = FactoryProducer::getFactory("Color");
+
+        $circulo = $colorFactory->getColor("Rojo");
+
+        $circulo->fill();
+    }
 }
