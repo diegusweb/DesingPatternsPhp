@@ -6,7 +6,7 @@
  * Time: 8:26 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 class Rojo implements Color

@@ -6,7 +6,7 @@
  * Time: 8:22 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 interface FiguraGeometrica

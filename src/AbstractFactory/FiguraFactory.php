@@ -6,7 +6,7 @@
  * Time: 8:28 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 class FiguraFactory extends AbstractFactory

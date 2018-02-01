@@ -6,7 +6,7 @@
  * Time: 8:23 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 class Triangulo implements FiguraGeometrica

@@ -6,7 +6,7 @@
  * Time: 8:27 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 abstract class AbstractFactory

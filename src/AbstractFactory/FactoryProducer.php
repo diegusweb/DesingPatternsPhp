@@ -6,12 +6,13 @@
  * Time: 8:34 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 class FactoryProducer
 {
     public static function getFactory($factory){
+        $factoryObject = null;
         //$factoryObject;
 
         switch ($factory){

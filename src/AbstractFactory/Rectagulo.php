@@ -6,7 +6,7 @@
  * Time: 8:25 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 class Rectagulo implements FiguraGeometrica

@@ -6,7 +6,7 @@
  * Time: 8:24 PM
  */
 
-namespace DesingPatterns\AbstractFactory;
+namespace AbstractFactory;
 
 
 class Circulo implements FiguraGeometrica
