@@ -6,7 +6,7 @@
  * Time: 8:31 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
 
 
 class ColorFactory extends AbstractFactory

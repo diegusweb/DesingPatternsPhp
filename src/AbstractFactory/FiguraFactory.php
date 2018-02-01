@@ -6,7 +6,7 @@
  * Time: 8:28 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
 
 
 class FiguraFactory extends AbstractFactory

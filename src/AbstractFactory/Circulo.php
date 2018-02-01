@@ -6,12 +6,11 @@
  * Time: 8:24 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
 
 
 class Circulo implements FiguraGeometrica
 {
-
     public function dibujar()
     {
         echo "Esto en un circulo";

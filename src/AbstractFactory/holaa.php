@@ -6,7 +6,9 @@
  * Time: 9:07 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
+
+
 
 class holaa
 {
@@ -27,4 +29,4 @@ class holaa
 
 $de = new holaa();
 
-$de->otro();
+$de->demo();

@@ -6,7 +6,7 @@
  * Time: 8:26 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
 
 
 class Rojo implements Color

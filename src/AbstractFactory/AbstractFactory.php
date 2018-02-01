@@ -6,7 +6,7 @@
  * Time: 8:27 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
 
 
 abstract class AbstractFactory

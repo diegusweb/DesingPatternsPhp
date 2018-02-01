@@ -6,7 +6,7 @@
  * Time: 8:42 PM
  */
 
-namespace AbstractFactory;
+namespace DesingPatternsPhp\AbstractFactory;
 
 
 use PHPUnit\Framework\TestCase;
